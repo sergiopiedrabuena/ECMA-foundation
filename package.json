@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "ecma-js",
-=======
-  "name": "localhost",
->>>>>>> 56274cdfe795c8d8754d997fe2841e831eb526a3
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
