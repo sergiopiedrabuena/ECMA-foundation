@@ -8,4 +8,4 @@ const square = num =>{
 }
 
 const square = (num1,num2) => num1 * num2 ;
-console.log(square(2,3))
+console.log(square(2,3));
